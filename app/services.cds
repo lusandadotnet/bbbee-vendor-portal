@@ -1,0 +1,1 @@
+using from './vendor-portal/annotations';

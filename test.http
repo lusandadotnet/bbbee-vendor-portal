@@ -1,0 +1,13 @@
+### get all the suppliers
+GET http://localhost:4004/odata/v4/compliance/Suppliers
+
+### get all the certificates
+GET http://localhost:4004/odata/v4/compliance/Certificates
+
+### test approve
+POST http://localhost:4004/odata/v4/compliance/approveCertificate
+Content-Type: application/json
+
+{
+    "certificateId": "20000000-0000-0000-0000-000000000001"
+}

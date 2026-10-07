@@ -1,0 +1,4 @@
+ID;certificate_ID;action;performedBy;previousStatus;newStatus;remarks;createdAt
+30000000-0000-0000-0000-000000000001;20000000-0000-0000-0000-000000000001;Approval & S/4HANA Sync;compliance.officer@mfg.co.za;PendingReview;Approved;Successfully synced compliance data to S/4HANA Clean Core.;2026-01-20T10:30:00Z
+30000000-0000-0000-0000-000000000002;20000000-0000-0000-0000-000000000003;Manual Rejection;compliance.officer@mfg.co.za;PendingReview;Rejected;Certificate expiry date is in the past.;2024-01-15T14:45:00Z
+30000000-0000-0000-0000-000000000003;20000000-0000-0000-0000-000000000004;Approval & S/4HANA Sync;compliance.officer@mfg.co.za;PendingReview;Approved;Successfully synced compliance data to S/4HANA Clean Core.;2026-03-12T09:15:00Z

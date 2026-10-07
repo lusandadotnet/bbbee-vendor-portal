@@ -1,0 +1,19 @@
+{
+  "scopes": [
+    {
+      "name": "$XSAPPNAME.ComplianceOfficer",
+      "description": "ComplianceOfficer"
+    }
+  ],
+  "attributes": [],
+  "role-templates": [
+    {
+      "name": "ComplianceOfficer",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.ComplianceOfficer"
+      ],
+      "attribute-references": []
+    }
+  ]
+}
